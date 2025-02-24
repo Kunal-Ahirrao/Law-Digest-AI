@@ -147,12 +147,9 @@ streamlit run 6_Application/app.py
 ## Demo Video
 [Demo Video](1_Governance/demo_video.webm)
 
-## Contributors
-- Nithish Kumar Senthil Kumar
-- Rishikesh Ramesh
 
 ## Contact
 For any queries, please reach out to:
 
-- Email: snithish1201@gmail.com
-- LinkedIn: [nithish1201](https://www.linkedin.com/in/nithish1201/)
+- Email: kahirrao.2807@gmail.com
+- LinkedIn: [Kunal-Ahirrao](www.linkedin.com/in/kunal-ahirrao)
