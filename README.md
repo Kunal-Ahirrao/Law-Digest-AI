@@ -132,7 +132,7 @@ LawDigestAI/
 ### Running the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nithish1201/LawDigestAI.git
+   git clone https://github.com/Kunal-Ahirrao/Law-Digest-AI.git
     ```
 ### Install dependencies:
 ```bash
